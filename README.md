@@ -20,5 +20,5 @@ I started coding just 2 years ago in my first year of university. The jump from 
 
 <details>
  <summary><h4>Upcoming Projects</h4></summary> 
-1. A portfolio website that applies artistic UI.
+1. A portfolio website that applies artistic UI.<br />
 2. Using arduino and e-textiles technology to design a product that helps scoliosis patients track progress/improve.
