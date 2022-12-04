@@ -16,7 +16,7 @@ My portfolio of work: https://chinene.myportfolio.com/
 #
 
 ### My Coding Journey
-I started coding just 2 years ago in my first year of university. The jump from Scratch and Lego Mindstorms was immense and it challenged my critical thinking, analysis skills, and creativity. I hace since learnt 4 coding languages and am in the process of improving my proficiency by coding more advanced applications.
+I started coding just 2 years ago in my first year of university. The jump from Scratch and Lego Mindstorms was immense and it challenged my critical thinking, analysis skills, and creativity. I have since learnt 4 coding languages and am in the process of improving my proficiency by coding more advanced applications.
 
 <details>
  <summary><h4>Upcoming Projects</h4></summary> 
