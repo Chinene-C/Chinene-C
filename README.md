@@ -2,9 +2,8 @@
 
 **`Product Designer`**
 
-I am an up and coming product designer, looking to build my version of the digital world one project at a time. All projects are built from scratch and made to solve real life problems using code. I am equipped with a diverse skillset across product development, technical innovation, user-centred design, and rapid prototyping.
-
-My portfolio of work: https://chinene.myportfolio.com/
+I am an aspiring digital and industrial product designer. I focus on producing products that create transformative human experiences and priotitise user experience design in all my work. 
+My portfolio: https://chinene.myportfolio.com/
 
 ### Languages
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
