@@ -2,7 +2,7 @@
 
 **`Product Designer`**
 
-I am an aspiring digital and industrial product designer. I focus on producing products that create transformative human experiences and priotitise user experience design in all my work. 
+I focus on producing products that create transformative human experiences and priotitise user experience design in all my work. 
 My portfolio: https://chinene.myportfolio.com/
 
 ### Languages
@@ -16,7 +16,7 @@ My portfolio: https://chinene.myportfolio.com/
 #
 
 ### My Coding Journey
-I started coding just 2 years ago in my first year of university. The jump from Scratch and Lego Mindstorms was immense and it challenged my critical thinking, analysis skills, and creativity. I have since learnt 5 coding languages and am in the process of improving my proficiency by coding more advanced applications.
+The jump from Scratch to coding projects was immense and it challenged my critical thinking, analysis skills, and creativity. I have since learnt 5+ coding languages and am in the process of improving my proficiency by coding more advanced applications.
 
 <details>
  <summary><h4>Upcoming Projects</h4></summary> 
