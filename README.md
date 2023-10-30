@@ -16,7 +16,7 @@ My portfolio: https://chinene.myportfolio.com/
 #
 
 ### My Coding Journey
-The jump from Scratch to coding projects was immense and it challenged my critical thinking, analysis skills, and creativity. I have since learnt 5+ coding languages and am in the process of improving my proficiency by coding more advanced applications.
+The jump from Scratch to coding projects at the start of university was immense and it challenged my critical thinking, analysis skills, and creativity. I have since learnt 5+ coding languages and am in the process of improving my proficiency by coding more advanced applications.
 
 <details>
  <summary><h4>Upcoming Projects</h4></summary> 
